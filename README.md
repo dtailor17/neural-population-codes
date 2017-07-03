@@ -17,8 +17,11 @@ Packages installed:
 * jupyter
 * seaborn
 * dill
+* DeDist
 
-Package list also exported to *conda_packages.txt*; to reproduce environment use `conda create`.
+Conda environment exported to *conda_env.yml*; to reproduce environment use `conda env create`.
+
+To install package *DeDist*, execute `python setup.py install` (within conda environment).
 
 ## IPython notebook
 

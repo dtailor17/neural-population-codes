@@ -1,0 +1,5 @@
+ipython[notebook]
+numpy>=1.9.0
+scipy>=0.16.0
+pytest>=2.8.1
+future>=0.15.2
